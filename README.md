@@ -17,3 +17,27 @@ transition
 article -> we can represent any independent self content peacy of content
 
 pictures
+
+transform
+
+order
+
+Header -> nav bar
+
+vw
+
+AOS - animate on scroll library
+
+og - ogp.me - The Open Graph protocol
+
+https://validator.w3.org/
+https://jigsaw.w3.org/css-validator/
+
+BUILD TOOLS
+Webpack
+
+init npm
+
+1. npm init -y
+2. npm i -D parcel-bundler `install parcel D from development dependency`
+3. Now we have node_modules

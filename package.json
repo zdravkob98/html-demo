@@ -1,0 +1,23 @@
+{
+  "name": "html-demo",
+  "version": "1.0.0",
+  "description": "Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zdravkob98/html-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zdravkob98/html-demo/issues"
+  },
+  "homepage": "https://github.com/zdravkob98/html-demo#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
