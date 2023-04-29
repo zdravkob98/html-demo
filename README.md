@@ -41,3 +41,7 @@ init npm
 1. npm init -y
 2. npm i -D parcel-bundler `install parcel D from development dependency`
 3. Now we have node_modules
+4. `node_modules/.bin/parcel index.html` or
+   `npm i -g parcel-bundler` and now `parcel index.html`
+   2 new folder .cache and dist
+5. `parcel build index.html` or `parcel build index.html --no-minify`
